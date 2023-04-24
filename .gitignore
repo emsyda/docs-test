@@ -1,0 +1,23 @@
+# Sphinx documentation build output
+docs/build/
+docs/source/_static/
+docs/source/_templates/
+
+# Sphinx generated .rst files (only if you use sphinx-apidoc)
+docs/doc_test*.rst
+docs/modules.rst
+
+# Other Sphinx-related files
+docs/.doctrees/
+docs/.buildinfo
+
+# Environment-specific configuration files
+docs/.env
+docs/.venv/
+
+# Python
+__pycache__/
+.venv
+
+# Vscode 
+.vscode/
